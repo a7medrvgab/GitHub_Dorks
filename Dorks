@@ -1,0 +1,71 @@
+“Company” password
+“Company” secret
+“Company” credentials
+“Company” token
+“Company” config
+“Company” key
+“Company” pass
+“Company” login
+“Company” ftp
+"Company” pwd
+“Company” security_credentials
+“Company” connectionstring
+“Company” JDBC
+“Company” ssh_auth_password
+“Company” send_key
+“Company” send_keys
+"Company" api_key|s
+"Company" oauth
+"Company" auth
+"Company" authentication
+"Company" client_secret
+"Company" api token
+"Company" client_id
+"Company" password
+"Company" user_password 
+"Company" user_pass
+"Company" passcode
+"Company"  password hash
+"Company" OTP
+"Company" user auth
+"Company"  remove password
+"Company"  root
+"Company"  admin
+"Company"  log
+"Company"  trash
+"Company"  token
+"Company"  FTP_PORT
+"Company" FTP_PASSWORD 
+"Company"  DB_DATABASE=DB_DATABASES
+"Company" DB_HOST=DB_HOSTS
+"Company"  DB_PORT=DB_PORTS
+"Company"  DB_PASSWORD=DB_PASSWORDS
+"Company DB_PW=DB_PWS"
+"Company DB_USER=DB_USERS"
+
+filename:sftp-config.json password
+filename:.s3cfg
+filename:config.php dbpasswd
+filename:.bashrc password
+filename:.esmtprc password
+filename:.netrc password
+filename:_netrc password
+filename:.env MAIL_HOST=smtp.gmail.com
+filename:prod.exs NOT prod.secret.exs
+filename:.npmrc _auth
+filename:WebServers.xml
+filename:sftp-config.json
+filename:.esmtprc password
+filename:passwd path:etc
+filename:prod.secret.exs
+filename:sftp-config.json
+filename:proftpdpasswd
+filename:travis.yml
+filename:vim_settings.xml
+filename:sftp.json path:.vscode
+filename:secrets.yml password
+extension:sql mysql dump
+extension:sql mysql dump
+extension:sql mysql dump password
+extension:pem private
+extension:ppk private
